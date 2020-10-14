@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "My OracleDB Wrapper",
   "main": "lib/index.js",
+  "types": "lib/types.d.ts",
   "scripts": {
     "test": "jest --config jest.config.json",
     "format": "prettier --write \"src/**/*.ts\"",

@@ -1,5 +1,5 @@
 {
-  "name": "oracledb-wrapper",
+  "name": "@alexjercan/oracledb-wrapper",
   "version": "1.0.0",
   "description": "My OracleDB Wrapper",
   "main": "lib/index.js",

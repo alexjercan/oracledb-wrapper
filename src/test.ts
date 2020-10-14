@@ -1,4 +1,4 @@
-﻿import * as oracledbWrapper from './oracledbWrapper';
+﻿import * as oracledbWrapper from './index';
 import OracleDB from 'oracledb';
 
 describe('Unit Tests', () => {

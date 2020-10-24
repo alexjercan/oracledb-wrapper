@@ -85,8 +85,3 @@ export const simpleExecute = <T>(
       .catch(reject);
   });
 };
-
-export const BIND_IN = oracledb.BIND_IN;
-export const BIND_OUT = oracledb.BIND_OUT;
-export const STRING = oracledb.STRING;
-export const NUMBER = oracledb.NUMBER;

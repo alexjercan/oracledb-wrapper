@@ -1,6 +1,6 @@
 {
   "name": "@alexjercan/oracledb-wrapper",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "My OracleDB Wrapper",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
